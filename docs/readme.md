@@ -10,4 +10,4 @@
 
 ## Other
 
-![Image](thumbs/thumbnail-crow_in_flight)
+![Image](thumbs/thumbnail-crow_in_flight.jpg)
