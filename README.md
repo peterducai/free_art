@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/peterducai/free_art/edit/m
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+<!-- for i in *.jpg; do convert -resize 200x200^ -extent 200x200 "4k/$i" "docs/thumbs/$i"; done -->
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
