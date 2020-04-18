@@ -17,7 +17,7 @@ do
     do
         echo "CONVERT -thumbnail 200 $f$pic docs/thumbs/thumb_$pic"
         convert -thumbnail 200 $f/$pic docs/thumbs/thumb_$pic
-        readme=$readme"![Image](thumbs/thumb_$pic)\n\n"
+        readme=$readme"[$pic](../$f/$pic)\n![Image](thumbs/thumb_$pic)\n\n"
     done
 done
 
