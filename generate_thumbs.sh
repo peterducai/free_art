@@ -1,6 +1,8 @@
 #!/bin/bash
 
-readme="# Thumbnails and info\n\n"
+readme="# Thumbnails and info\n\n /
+# Source\n\nhttps://github.com/peterducai/free_art /
+# License\n\nCC0-1.0 License"
 
 ## 4K
 

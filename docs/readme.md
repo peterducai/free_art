@@ -1,6 +1,10 @@
 # Thumbnails and info
 
-# 4k
+ / # Source
+
+https://github.com/peterducai/free_art / # License
+
+CC0-1.0 License# 4k
 
 ![Image](thumbs/thumb_beachsand.jpg)
 [beachsand.jpg](https://github.com/peterducai/free_art/blob/master/4k/beachsand.jpg)
